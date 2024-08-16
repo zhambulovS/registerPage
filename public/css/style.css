@@ -6,13 +6,15 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
-body{
-    background: url("https://www.railway.supply/wp-content/uploads/2020/12/park-fitingovyh-platform.jpg");
+body {
+    background: url("https://images.wallpaperscraft.ru/image/single/poverhnost_linii_fon_51018_1920x1080.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
     overflow: hidden;
 }
+
+
 .wrapper{
     display: flex;
     justify-content: center;
