@@ -6,14 +6,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="<?=asset('/css/style.css')?>"/>
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="icon" href="https://habrastorage.org/getpro/moikrug/uploads/company/510/408/900/logo/medium_df93ac94e79f9c169edadc415c345548.png" sizes="16x16">
     <title>KTZ | Войти | Регистрация</title>
 </head>
 <body>
 <div class="wrapper">
     <nav class="nav">
         <div class="nav-logo">
-            <p>KTZH.</p>
+            <img src="/image/kazakhstan-railways-logo-removebg-preview.png" alt="Kazakhstan Railways Logo">
         </div>
+
         <div class="nav-menu" id="navMenu">
             <ul>
                 <li><a href="#" class="link active">Главный</a></li>

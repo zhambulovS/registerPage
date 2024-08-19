@@ -7,14 +7,12 @@
     font-family: 'Poppins', sans-serif;
 }
 body {
-    background: url("https://images.wallpaperscraft.ru/image/single/poverhnost_linii_fon_51018_1920x1080.jpg");
+    background: url("../image/ktz.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
     overflow: hidden;
 }
-
-
 .wrapper{
     display: flex;
     justify-content: center;
